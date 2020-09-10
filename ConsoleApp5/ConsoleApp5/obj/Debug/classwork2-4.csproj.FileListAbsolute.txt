@@ -1,0 +1,6 @@
+C:\Users\ztr45\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\ztr45\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\ztr45\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\ztr45\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\classwork2-4.csproj.CoreCompileInputs.cache
+C:\Users\ztr45\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\ztr45\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
