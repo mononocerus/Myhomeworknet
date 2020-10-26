@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <COMReference Include="VSLangProj2.dll">
+      <Guid>7c0c4d36-0fa7-4840-b27c-166f91bc9e57</Guid>
+      <VersionMajor>7</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+    <COMReference Include="VSLangProj.dll">
+      <Guid>49a1950e-3e35-4595-8cb9-920c64c44d67</Guid>
+      <VersionMajor>7</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.UnitTestFramework.Extensions" Version="2.0.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.1.58" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\homework3\homework3.csproj" />
+  </ItemGroup>
+
+</Project>

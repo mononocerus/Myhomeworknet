@@ -1,0 +1,5 @@
+C:\Users\ztr45\source\repos\homework3\homework3\obj\Debug\netcoreapp3.1\homework3.csprojAssemblyReference.cache
+C:\Users\ztr45\source\repos\homework3\homework3\obj\Debug\netcoreapp3.1\homework3.AssemblyInfoInputs.cache
+C:\Users\ztr45\source\repos\homework3\homework3\obj\Debug\netcoreapp3.1\homework3.AssemblyInfo.cs
+C:\Users\ztr45\source\repos\homework3\homework3\obj\Debug\netcoreapp3.1\homework3.csproj.CoreCompileInputs.cache
+C:\Users\ztr45\source\repos\homework3\homework3\bin\Debug\netcoreapp3.1\homework3.exe

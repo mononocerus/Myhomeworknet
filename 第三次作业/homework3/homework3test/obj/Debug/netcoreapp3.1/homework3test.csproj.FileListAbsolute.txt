@@ -1,0 +1,11 @@
+C:\Users\ztr45\source\repos\homework3\homework3test\bin\Debug\netcoreapp3.1\homework3.dll
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\homework3test.csprojAssemblyReference.cache
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\Interop.VSLangProj2.dll
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\Interop.VSLangProj.dll
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\homework3test.csproj.ResolveComReference.cache
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\homework3test.AssemblyInfoInputs.cache
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\homework3test.AssemblyInfo.cs
+C:\Users\ztr45\source\repos\homework3\homework3test\bin\Debug\netcoreapp3.1\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\ztr45\source\repos\homework3\homework3test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ztr45\source\repos\homework3\homework3test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ztr45\source\repos\homework3\homework3test\obj\Debug\netcoreapp3.1\homework3test.csproj.CoreCompileInputs.cache
