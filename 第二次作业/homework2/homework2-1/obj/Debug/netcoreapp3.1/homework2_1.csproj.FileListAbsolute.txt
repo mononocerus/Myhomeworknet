@@ -1,0 +1,12 @@
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\bin\Debug\netcoreapp3.1\homework2_1.exe
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\bin\Debug\netcoreapp3.1\homework2_1.deps.json
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\bin\Debug\netcoreapp3.1\homework2_1.runtimeconfig.json
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\bin\Debug\netcoreapp3.1\homework2_1.runtimeconfig.dev.json
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\bin\Debug\netcoreapp3.1\homework2_1.dll
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\bin\Debug\netcoreapp3.1\homework2_1.pdb
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\obj\Debug\netcoreapp3.1\homework2_1.AssemblyInfoInputs.cache
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\obj\Debug\netcoreapp3.1\homework2_1.AssemblyInfo.cs
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\obj\Debug\netcoreapp3.1\homework2_1.csproj.CoreCompileInputs.cache
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\obj\Debug\netcoreapp3.1\homework2_1.dll
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\obj\Debug\netcoreapp3.1\homework2_1.pdb
+C:\Users\ztr45\source\repos\homework2-1\homework2-1\obj\Debug\netcoreapp3.1\homework2_1.genruntimeconfig.cache
