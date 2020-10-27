@@ -1,0 +1,10 @@
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\bin\Debug\homework4-1(Cayley).exe.config
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\bin\Debug\homework4-1(Cayley).exe
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\bin\Debug\homework4-1(Cayley).pdb
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4-1(Cayley).csprojAssemblyReference.cache
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4_1_Cayley_.cayleytree.resources
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4_1_Cayley_.Properties.Resources.resources
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4-1(Cayley).csproj.GenerateResource.cache
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4-1(Cayley).csproj.CoreCompileInputs.cache
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4-1(Cayley).exe
+C:\Users\ztr45\source\repos\homework4-1(Cayley)\homework4-1(Cayley)\obj\Debug\homework4-1(Cayley).pdb
