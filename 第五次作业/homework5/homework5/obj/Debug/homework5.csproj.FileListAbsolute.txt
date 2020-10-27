@@ -1,0 +1,10 @@
+C:\Users\ztr45\source\repos\homework5\homework5\bin\Debug\homework5.exe.config
+C:\Users\ztr45\source\repos\homework5\homework5\bin\Debug\homework5.exe
+C:\Users\ztr45\source\repos\homework5\homework5\bin\Debug\homework5.pdb
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.csprojAssemblyReference.cache
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.Form1.resources
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.Properties.Resources.resources
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.csproj.GenerateResource.cache
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.csproj.CoreCompileInputs.cache
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\ztr45\source\repos\homework5\homework5\obj\Debug\homework5.pdb
